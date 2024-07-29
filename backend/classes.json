@@ -1,0 +1,63 @@
+[
+  {
+    
+    "name": "Progressive Power Flow",
+    "image": "https://i.ibb.co/1q6TT6j/women-on-yoga-2021-08-26-15-44-27-utc.jpg",
+    "availableSeats": 781,
+    "price": "70",
+    "videoLink": "https://www.youtube.com/watch?v=71PmTZOgmXA",
+    "description": "do yoga with joy",
+    "instructorName": "aderen",
+    "instructorEmail": "aderen@gmail.com",
+    "status": "approved",
+    "submitted": "2024-02-28T20:01:12.168Z",
+    "totalEnrolled": 9,
+    "reason": null
+  },
+  {
+    
+    "name": "Exercise Hacks for Women",
+    "image": "https://i.ibb.co/ygY8LvM/pretty-yoga-instructor-helping-her-student-in-a-yo-2021-08-26-20-17-29-utc.jpg",
+    "availableSeats": 516,
+    "price": "50",
+    "videoLink": "https://www.youtube.com/watch?v=ecPtoWLr1n0",
+    "description": "Aliq is notm hendr erit a augue insu image pellen tes.",
+    "instructorName": "Shilpa Shetty",
+    "instructorEmail": "shilpa@gmail.com",
+    "status": "approved",
+    "submitted": "2024-02-28T20:01:40.168Z",
+    "totalEnrolled": 4,
+    "reason": null
+  },
+  {
+    
+    "name": "Make a Peaceful Living",
+    "image": "https://i.ibb.co/xqCFZZS/yoga-relax-2021-09-24-03-25-39-utc.jpg",
+    "availableSeats": 782,
+    "price": "50",
+    "videoLink": "https://www.youtube.com/watch?v=0eT7IMj9sbE",
+    "description": "Aliq is notm hendr erit a augue insu image pellen tes.",
+    "instructorName": "Aisha Roy",
+    "instructorEmail": "aisha@gmail.com",
+    "status": "approved",
+    "submitted": "2024-02-28T20:01:40.168Z",
+    "totalEnrolled": 8,
+    "reason": null
+  },
+  {
+   
+    "name": "Exercise Hacks for Women",
+    "image": "https://i.ibb.co/L89HLkw/group-of-young-people-doing-yoga-on-a-yoga-mat-2021-09-02-14-56-30-utc.jpg",
+    "availableSeats": 516,
+    "price": "50",
+    "videoLink": "https://youtu.be/UCgvZ4VkLMQ",
+    "description": "Aliq is notm hendr erit a augue insu image pellen tes.",
+    "instructorName": "Harry william",
+    "instructorEmail": "harry@gmail.com",
+    "status": "approved",
+    "submitted": "2024-02-28T20:01:40.168Z",
+    "totalEnrolled": 4,
+    "reason": null
+  }
+ 
+]
